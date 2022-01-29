@@ -60,7 +60,7 @@
     <version>1.5.27</version>
 </dependency>
 
-  
+</dependencies>  
   
   
   
@@ -75,5 +75,5 @@
 
 
 
-</dependencies>
+
 </project>
